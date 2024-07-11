@@ -1,0 +1,8 @@
+pytube
+pydub
+youtube_dl
+yt-dlp
+librosa
+langchain
+langchain-community
+openai
